@@ -61,19 +61,6 @@ I'm the author of:
 
 </div>
 
----
-
-## Featured Projects
-
-**Core tools I actively maintain and build:**
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| **[wgcf-docker](https://github.com/neilpang/wgcf-docker)** | CloudFlare WARP client in Docker | Shell | ![Stars](https://img.shields.io/github/stars/neilpang/wgcf-docker?style=flat-square&color=58A6FF) |
-| **[letsproxy](https://github.com/neilpang/letsproxy)** | Nginx reverse proxy with automatic free SSL via acme.sh | Go Template | ![Stars](https://img.shields.io/github/stars/neilpang/letsproxy?style=flat-square&color=58A6FF) |
-| **[nginx-multiplexer](https://github.com/neilpang/nginx-multiplexer)** | TCP & TLS-ALPN multiplexer using nginx | JavaScript | ![Stars](https://img.shields.io/github/stars/neilpang/nginx-multiplexer?style=flat-square&color=58A6FF) |
-| **[rpn.sh](https://github.com/neilpang/rpn.sh)** | Reverse proxy solution for nginx | Shell | ![Stars](https://img.shields.io/github/stars/neilpang/rpn.sh?style=flat-square&color=58A6FF) |
-
 
 ---
 
